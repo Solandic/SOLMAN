@@ -23,7 +23,7 @@ function a(e, t) {
         },
         robots: "noindex",
        
-        title: "$SOLMAN",
+        title: "$SOLMON",
         viewport: "width=device-width"
     }
 }

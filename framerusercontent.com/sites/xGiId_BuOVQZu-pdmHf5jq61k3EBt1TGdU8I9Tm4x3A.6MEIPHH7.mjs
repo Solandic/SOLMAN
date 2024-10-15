@@ -3255,7 +3255,7 @@ var Xa = {
                                                 "position": "relative",
                                                 "top": "60px",
                                             },
-                                            children: "SOLMAN"
+                                            children: "SOLMON"
                                         }),]
                                     })
                                 },
@@ -3270,7 +3270,7 @@ var Xa = {
                                                 "--framer-text-alignment": "center",
                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                             },
-                                            children: "SOLMAN "
+                                            children: "SOLMON "
                                         }), ]
                                     })
                                 },
@@ -3284,7 +3284,7 @@ var Xa = {
                                                 "--framer-line-height": "0.8em",
                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                             },
-                                            children: "SOLMAN "
+                                            children: "SOLMON "
                                         }), ]
                                     })
                                 }
@@ -3302,7 +3302,7 @@ var Xa = {
                                             "position": "relative",
                                             "top": "60px",
                                         },
-                                        children: "SOLMAN "
+                                        children: "SOLMON "
                                     }), ]
                                 }),
                                 className: "framer-1u87dxm",
@@ -4068,7 +4068,7 @@ var Xa = {
                                                     "--framer-font-size": "32px",
                                                     "--framer-line-height": "0.8em"
                                                 },
-                                                children: "$SOLMAN"
+                                                children: "$SOLMON"
                                             })
                                         }),
                                         className: "framer-15mie4b",
@@ -4179,7 +4179,7 @@ var Xa = {
                                                 "--framer-text-alignment": "center",
                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                             },
-                                            children: "Is it just a meme? Is it just a dog? No, it\u2019s revolution \u2013 it\u2019s SOLMAN!"
+                                            children: "Is it just a meme? Is it just a dog? No, it\u2019s revolution \u2013 it\u2019s SOLMON!"
                                         })
                                     })
                                 },
@@ -4194,7 +4194,7 @@ var Xa = {
                                                 "--framer-text-alignment": "center",
                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                             },
-                                            children: "Is it just a meme? Is it just a dog? No, it\u2019s revolution \u2013 it\u2019s SOLMAN!"
+                                            children: "Is it just a meme? Is it just a dog? No, it\u2019s revolution \u2013 it\u2019s SOLMON!"
                                         })
                                     })
                                 },
@@ -4208,7 +4208,7 @@ var Xa = {
                                                 "--framer-line-height": "1em",
                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                             },
-                                            children: "Is it just a meme? Is it just a dog? No, it\u2019s revolution \u2013 it\u2019s SOLMAN!"
+                                            children: "Is it just a meme? Is it just a dog? No, it\u2019s revolution \u2013 it\u2019s SOLMON!"
                                         })
                                     })
                                 }
@@ -4224,7 +4224,7 @@ var Xa = {
                                             "--framer-line-height": "1em",
                                             "--framer-text-color": "rgb(255, 255, 255)"
                                         },
-                                        children: "Is it just a meme? Is it just a dog? No, it\u2019s revolution \u2013 it\u2019s SOLMAN!"
+                                        children: "Is it just a meme? Is it just a dog? No, it\u2019s revolution \u2013 it\u2019s SOLMON!"
                                     })
                                 }),
                                 className: "framer-1v4xu87",
@@ -4247,7 +4247,7 @@ var Xa = {
                                                 "--framer-text-alignment": "center",
                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                             },
-                                            children: "Hold onto your wallets, because SOLMAN is taking off on Solana Chain! Remember the thrill of 2021? We're about to make that look like a warm-up lap. The SOLMAN community is gearing up to go BIGGER and crazier\u2014this isn't just a bull run, it's a stampede. Are you ready to run with the pack?"
+                                            children: "Hold onto your wallets, because SOLMON is taking off on Solana Chain! Remember the thrill of 2021? We're about to make that look like a warm-up lap. The SOLMON community is gearing up to go BIGGER and crazier\u2014this isn't just a bull run, it's a stampede. Are you ready to run with the pack?"
                                         })
                                     })
                                 },
@@ -4263,7 +4263,7 @@ var Xa = {
                                                 "--framer-text-alignment": "center",
                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                             },
-                                            children: "Hold onto your wallets, because SOLMAN is taking off on Solana Chain! Remember the thrill of 2021? We're about to make that look like a warm-up lap. The SOLMAN community is gearing up to go BIGGER and crazier\u2014this isn't just a bull run, it's a stampede. Are you ready to run with the pack?"
+                                            children: "Hold onto your wallets, because SOLMON is taking off on Solana Chain! Remember the thrill of 2021? We're about to make that look like a warm-up lap. The SOLMON community is gearing up to go BIGGER and crazier\u2014this isn't just a bull run, it's a stampede. Are you ready to run with the pack?"
                                         })
                                     })
                                 },
@@ -4278,7 +4278,7 @@ var Xa = {
                                                 "--framer-line-height": "1em",
                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                             },
-                                            children: "Hold onto your wallets, because SOLMAN is taking off on Solana Chain! Remember the thrill of 2021? We're about to make that look like a warm-up lap. The SOLMAN community is gearing up to go BIGGER and crazier\u2014this isn't just a bull run, it's a stampede. Are you ready to run with the pack?"
+                                            children: "Hold onto your wallets, because SOLMON is taking off on Solana Chain! Remember the thrill of 2021? We're about to make that look like a warm-up lap. The SOLMON community is gearing up to go BIGGER and crazier\u2014this isn't just a bull run, it's a stampede. Are you ready to run with the pack?"
                                         })
                                     })
                                 }
@@ -4295,7 +4295,7 @@ var Xa = {
                                             "--framer-line-height": "1em",
                                             "--framer-text-color": "rgb(255, 255, 255)"
                                         },
-                                        children: "Hold onto your wallets, because SOLMAN is taking off on Solana Chain! Remember the thrill of 2021? We're about to make that look like a warm-up lap. The SOLMAN community is gearing up to go BIGGER and crazier\u2014this isn't just a bull run, it's a stampede. Are you ready to run with the pack?"
+                                        children: "Hold onto your wallets, because SOLMON is taking off on Solana Chain! Remember the thrill of 2021? We're about to make that look like a warm-up lap. The SOLMON community is gearing up to go BIGGER and crazier\u2014this isn't just a bull run, it's a stampede. Are you ready to run with the pack?"
                                     })
                                 }),
                                 className: "framer-q46gsf",
@@ -4403,7 +4403,7 @@ var Xa = {
                                                 "--framer-text-alignment": "center",
                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                             },
-                                            children: "Welcome to our quick guide on How to Buy SOLMAN on Solana Chain! Follow these straightforward steps to add SOLMAN to your crypto portfolio in just a few clicks."
+                                            children: "Welcome to our quick guide on How to Buy SOLMON on Solana Chain! Follow these straightforward steps to add SOLMON to your crypto portfolio in just a few clicks."
                                         })
                                     })
                                 },
@@ -4419,7 +4419,7 @@ var Xa = {
                                                 "--framer-text-alignment": "center",
                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                             },
-                                            children: "Welcome to our quick guide on How to Buy SOLMAN on Solana Chain! Follow these straightforward steps to add SOLMAN to your crypto portfolio in just a few clicks."
+                                            children: "Welcome to our quick guide on How to Buy SOLMON on Solana Chain! Follow these straightforward steps to add SOLMON to your crypto portfolio in just a few clicks."
                                         })
                                     })
                                 }
@@ -4437,7 +4437,7 @@ var Xa = {
                                             "--framer-text-alignment": "center",
                                             "--framer-text-color": "rgb(255, 255, 255)"
                                         },
-                                        children: "Welcome to our quick guide on How to Buy SOLMAN on Solana Chain! Follow these straightforward steps to add SOLMAN to your crypto portfolio in just a few clicks."
+                                        children: "Welcome to our quick guide on How to Buy SOLMON on Solana Chain! Follow these straightforward steps to add SOLMON to your crypto portfolio in just a few clicks."
                                     })
                                 }),
                                 className: "framer-o137gh",
@@ -4719,7 +4719,7 @@ var Xa = {
                                                             "--framer-line-height": "1em",
                                                             "--framer-text-color": "rgb(255, 255, 255)"
                                                         },
-                                                        children: "Go to pump.fun, connect your wallet and paste the SOLMAN contract address."
+                                                        children: "Go to pump.fun, connect your wallet and paste the SOLMON contract address."
                                                     })
                                                 })
                                             },
@@ -4734,7 +4734,7 @@ var Xa = {
                                                             "--framer-line-height": "1em",
                                                             "--framer-text-color": "rgb(255, 255, 255)"
                                                         },
-                                                        children: "Go to pump.fun, connect your wallet and paste the SOLMAN contract address."
+                                                        children: "Go to pump.fun, connect your wallet and paste the SOLMON contract address."
                                                     })
                                                 })
                                             },
@@ -4749,7 +4749,7 @@ var Xa = {
                                                             "--framer-line-height": "1em",
                                                             "--framer-text-color": "rgb(255, 255, 255)"
                                                         },
-                                                        children: "Go to pump.fun, connect your wallet and paste the SOLMAN contract address."
+                                                        children: "Go to pump.fun, connect your wallet and paste the SOLMON contract address."
                                                     })
                                                 })
                                             }
@@ -4766,7 +4766,7 @@ var Xa = {
                                                         "--framer-line-height": "1em",
                                                         "--framer-text-color": "rgb(255, 255, 255)"
                                                     },
-                                                    children: "Go to pump.fun, connect your wallet and paste the SOLMAN contract address."
+                                                    children: "Go to pump.fun, connect your wallet and paste the SOLMON contract address."
                                                 })
                                             }),
                                             className: "framer-os3i0r",
@@ -4816,7 +4816,7 @@ var Xa = {
                                                             "--framer-text-transform": "uppercase"
                                                         },
                                                         children: e("sSUIg", {
-                                                            children: "SWAP SOL for SOLMAN"
+                                                            children: "SWAP SOL for SOLMON"
                                                         })
                                                     })
                                                 })
@@ -4834,7 +4834,7 @@ var Xa = {
                                                             "--framer-text-transform": "uppercase"
                                                         },
                                                         children: e("sSUIg", {
-                                                            children: "SWAP SOL for SOLMAN"
+                                                            children: "SWAP SOL for SOLMON"
                                                         })
                                                     })
                                                 })
@@ -4854,7 +4854,7 @@ var Xa = {
                                                         "--framer-text-transform": "uppercase"
                                                     },
                                                     children: e("sSUIg", {
-                                                        children: "SWAP SOL for SOLMAN"
+                                                        children: "SWAP SOL for SOLMON"
                                                     })
                                                 })
                                             }),
@@ -5173,7 +5173,7 @@ var Xa = {
                                                     "--framer-text-alignment": "center",
                                                     "--framer-text-color": "rgb(255, 255, 255)"
                                                 },
-                                                children: "Explore the tokenomics of SOLMAN to understand how it\u2019s structured for value growth and stability. Our model includes details on supply distribution and taking advantage of Solana Chain transaction fees."
+                                                children: "Explore the tokenomics of SOLMON to understand how it\u2019s structured for value growth and stability. Our model includes details on supply distribution and taking advantage of Solana Chain transaction fees."
                                             })
                                         })
                                     },
@@ -5189,7 +5189,7 @@ var Xa = {
                                                     "--framer-text-alignment": "center",
                                                     "--framer-text-color": "rgb(255, 255, 255)"
                                                 },
-                                                children: "Explore the tokenomics of SOLMAN to understand how it\u2019s structured for value growth and stability. Our model includes details on supply distribution and taking advantage of Solana Chain transaction fees."
+                                                children: "Explore the tokenomics of SOLMON to understand how it\u2019s structured for value growth and stability. Our model includes details on supply distribution and taking advantage of Solana Chain transaction fees."
                                             })
                                         })
                                     }
@@ -5207,7 +5207,7 @@ var Xa = {
                                                 "--framer-text-alignment": "center",
                                                 "--framer-text-color": "rgb(255, 255, 255)"
                                             },
-                                            children: "Explore the tokenomics of SOLMAN to understand how it\u2019s structured for value growth and stability. Our model includes details on supply distribution and taking advantage of Solana Chain transaction fees."
+                                            children: "Explore the tokenomics of SOLMON to understand how it\u2019s structured for value growth and stability. Our model includes details on supply distribution and taking advantage of Solana Chain transaction fees."
                                         })
                                     }),
                                     className: "framer-w0eid7",
@@ -5284,7 +5284,7 @@ var Xa = {
                                                         "--framer-line-height": "1em",
                                                         "--framer-text-color": "#73c9ff"
                                                     },
-                                                    children: "$SOLMAN"
+                                                    children: "$SOLMON"
                                                 })
                                             })
                                         },
@@ -5298,7 +5298,7 @@ var Xa = {
                                                         "--framer-line-height": "1em",
                                                         "--framer-text-color": "#73c9ff"
                                                     },
-                                                    children: "$SOLMAN"
+                                                    children: "$SOLMON"
                                                 })
                                             })
                                         }
@@ -5314,7 +5314,7 @@ var Xa = {
                                                     "--framer-line-height": "1em",
                                                     "--framer-text-color": "#73c9ff"
                                                 },
-                                                children: "$SOLMAN"
+                                                children: "$SOLMON"
                                             })
                                         }),
                                         className: "framer-1wblll4",
@@ -5861,7 +5861,7 @@ var Xa = {
                                                         "--framer-line-height": "0.8em",
                                                         "--framer-text-color": "#73c9ff"
                                                     },
-                                                    children: "SOLMAN "
+                                                    children: "SOLMON "
                                                 }), ]
                                             })
                                         },
@@ -5875,7 +5875,7 @@ var Xa = {
                                                         "--framer-line-height": "0.8em",
                                                         "--framer-text-color": "#73c9ff"
                                                     },
-                                                    children: "SOLMAN "
+                                                    children: "SOLMON "
                                                 }), ]
                                             })
                                         }
@@ -5891,7 +5891,7 @@ var Xa = {
                                                     "--framer-line-height": "0.8em",
                                                     "--framer-text-color": "#73c9ff"
                                                 },
-                                                children: "SOLMAN "
+                                                children: "SOLMON "
                                             }), ]
                                         }),
                                         className: "framer-1nfzru4",
